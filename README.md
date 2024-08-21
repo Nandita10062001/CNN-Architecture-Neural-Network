@@ -27,4 +27,5 @@ In order to understand the architecture better, lets take an image and apply the
 - Forward Propagation
 - Backward Propagation
 
-
+### Output:
+![Output](image.png)
